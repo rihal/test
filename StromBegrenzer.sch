@@ -1,4 +1,4 @@
-EESchema Schematic File Version 4
+
 LIBS:StromBegrenzer-cache
 EELAYER 26 0
 EELAYER END
